@@ -16,4 +16,6 @@
 
 本笔记是用扩展 markdown 格式编写，使用了大量的非标准 LATEX 语法。语法参考见我的项目 [markdown语法](https://github.com/huaxz1986/markdown_documentation_chinese)。里面已经有 PDF 版。
 
-配套的 markdown 编辑器为 cutemarked, 可以从我的网盘 [我的cutemarked](http://pan.baidu.com/s/1sl9qPqt) 下载。
+配套的 markdown 编辑器为 cutemarked, 可以从我的网盘 [我的cutemarked](http://pan.baidu.com/s/1sl9qPqt) 下载。其运行界面如下所示：
+
+  ![编辑器](imgs/overview.JPG)
